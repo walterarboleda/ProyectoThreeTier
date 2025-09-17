@@ -95,4 +95,5 @@ SELECT * FROM USUARIO
 
 ## REFERENCES
 Hansonpar. (2025). Windows Forms - CRUD con Visual Studio y SQL Server. http://blog.hadsonpar.com/2021/12/windows-forms-crud-con-visual-studio-y.html
+
 Hansonpar. (2025). CRUD - Base de Datos con Microsoft SQL Server. http://blog.hadsonpar.com/2020/08/crud-base-de-datos-con-microsoft-sql.html#google_vignette
