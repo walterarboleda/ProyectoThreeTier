@@ -18,7 +18,7 @@ CREATE TABLE USUARIO (
     fechaReg date
     );
 
-# Store Procedures Creation
+## Store Procedures Creation
 ## SP_INSERTAR_USUARIO
 CREATE PROCEDURE SP_INSERTAR_USUARIO
  @usuario varchar(50)
