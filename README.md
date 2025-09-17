@@ -1,5 +1,5 @@
 # Windows Forms Three Tier Project
-## Developed using Visual Studio .NET 2022 con MS SQL Server 2021
+## Developed using Visual Studio .NET 2022 and MS SQL Server 2021
 ## Developer: Walter Hugo Arboleda Mazo
 
 ## User Interface
