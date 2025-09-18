@@ -2,13 +2,30 @@
 ## Developed using Visual Studio .NET 2022 and MS SQL Server 2021
 ## Developer: Walter Hugo Arboleda Mazo
 
-## User Interface
+# Steps to Follow for Creating a Three-Tier Pattern on Visual Studio .NET 2022
+## 1. Create a Blank Solution
+
+## 2. Add/New Project
+Class Library (.NET Framework) C#
+
+## 3. Add/New Project
+Class Library (.NET Framework) C#
+
+## 4. Add/New Project
+Windows Form Application (.NET Framework) C#
+
+## 5. Add/References for the three layers
+
+## 6. Set UserInterface as Startup Project
+
+
+# User Interface
 ![3T](https://github.com/user-attachments/assets/8f409a9b-cca1-4ba0-bffb-3277e544e6e1)
 
-## Database creation
+# Database creation
 CREATE DATABASE BD_TEST
 
-## Table Creation
+# Table Creation
 CREATE TABLE USUARIO (
     id int IDENTITY(1,1) PRIMARY KEY  NOT NULL,
     usuario varchar(50) NOT NULL,
@@ -18,7 +35,7 @@ CREATE TABLE USUARIO (
     fechaReg date
     );
 
-## Store Procedures Creation
+# Store Procedures Creation
 ## SP_INSERTAR_USUARIO
 CREATE PROCEDURE SP_INSERTAR_USUARIO
  @usuario varchar(50)
